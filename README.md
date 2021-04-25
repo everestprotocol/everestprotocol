@@ -5,4 +5,4 @@ First, the dev has minted the tokens - sent the balance to DxSale for fair launc
 Second, utilized the DxSale protocol to foster trust in the community by auto-locking liquidity for 4 years.
 Simple tokenomics and elegant design and production of token information has catered to the overall success of the project.
 100% community owned and driven - no rug is possible. 
-#Everest join us on our journey safely to the moon!
+#Everest join us on our journey to restore earth's crown!
